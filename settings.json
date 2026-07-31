@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OxilymeBot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Oxilyme.aternos.me",
     "port": 56005,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
